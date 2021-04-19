@@ -2,6 +2,8 @@ module helm.sh/chartmuseum
 
 go 1.12
 
+replace github.com/chartmuseum/storage v0.5.0 => github.com/ludz-lim/storage v0.8.0
+
 require (
 	github.com/Masterminds/semver v1.4.2 // indirect
 	github.com/alicebob/gopher-json v0.0.0-20180125190556-5a6b3ba71ee6 // indirect
