@@ -6,7 +6,7 @@ replace (
 	github.com/Azure/go-autorest => github.com/Azure/go-autorest v13.3.2+incompatible
 	github.com/NetEase-Object-Storage/nos-golang-sdk => github.com/karuppiah7890/nos-golang-sdk v0.0.0-20191116042345-0792ba35abcc
 	go.etcd.io/etcd => github.com/eddycjy/etcd v0.5.0-alpha.5.0.20200218102753-4258cdd2efdf
-	github.com/chartmuseum/storage v0.8.0 => github.com/ludz-lim/storage v0.8.0
+	github.com/chartmuseum/storage v0.8.0 => github.com/ludz-lim/my-ludz-storage v1.0.5
 )
 
 require (
